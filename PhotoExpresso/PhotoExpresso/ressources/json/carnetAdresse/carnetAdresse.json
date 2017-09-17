@@ -1,0 +1,32 @@
+[
+    {
+	"intitule":"maison",
+	"nom":"Nanas",
+	"prenom":"Judas",
+	"adresse1":"14 rue de l\'est",
+	"adresse2":"",
+	"codePostal":"90000",
+	"ville":"Belfort",
+	"pays":"France"
+	},
+	{
+	"intitule":"Mamie",
+	"nom":"Barre",
+	"prenom":"Mélanie",
+	"adresse1":"43 rue Henri Laroche",
+	"adresse2":"",
+	"codePostal":"60800",
+	"ville":"Crépy en Valois",
+	"pays":"France"
+	},
+	{
+	"intitule":"Tonton Larry",
+	"nom":"Covert",
+	"prenom":"Larry",
+	"adresse1":"4 rue Jules Massenet",
+	"adresse2":"4ème étage",
+	"codePostal":"60800",
+	"ville":"Crépy en Valois",
+	"pays":"France"
+	}
+]

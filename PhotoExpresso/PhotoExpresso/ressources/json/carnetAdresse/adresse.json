@@ -1,0 +1,4 @@
+[{"id":1,"intitule":"Mon adresse","prenom":"Judas","nom":"Nanas","adresse1":"23 rue de l'est","adresse2":"","codepostal":"90000","ville":"Belfort","pays":"France","users_id":1,"created_at":null,"updated_at":null},
+ {"id":2,"intitule":"Mon adresse 2","prenom":"Judas","nom":"Bricot","adresse1":"215 rue Joffre","adresse2":"Porte 3B","codepostal":"91608","ville":"Essonne","pays":"France","users_id":2,"created_at":null,"updated_at":null},
+ {"id":3,"intitule":"Mamie","prenom":"Marie","nom":"Jeanne","adresse1":"45 Rue Reine Mathilde","adresse2":"","codepostal":"76480","ville":"Le Trait","pays":"France","users_id":3,"created_at":null,"updated_at":null},
+ {"id":4,"intitule":"Harry","prenom":"Harry","nom":"Covert","adresse1":"85 Rue Mathurin","adresse2":"","codepostal":"60450","ville":"Villers st Genest","pays":"France","users_id":4,"created_at":null,"updated_at":null}]

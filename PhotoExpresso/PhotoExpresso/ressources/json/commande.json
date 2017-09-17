@@ -1,0 +1,4 @@
+[{"id":1,"montant":1,"statut":"envoye","fraisport_id":1,"codereduction_id":1,"users_id":5,"created_at":"2016-10-28 07:46:12","updated_at":null},
+ {"id":2,"montant":3,"statut":"en traitement","fraisport_id":2,"codereduction_id":2,"users_id":2,"created_at":"2016-11-01 07:46:12","updated_at":"2016-12-21 12:27:40"},
+ {"id":3,"montant":10,"statut":"en traitement","fraisport_id":3,"codereduction_id":3,"users_id":3,"created_at":"2016-11-02 07:46:12","updated_at":null},
+ {"id":4,"montant":48,"statut":"en traitement","fraisport_id":4,"codereduction_id":4,"users_id":4,"created_at":"2016-10-30 07:46:12","updated_at":"2016-12-21 11:41:13"}]

@@ -1,0 +1,6 @@
+[{"id":1,"intitule":"20x30","tarif":1.70,"width":20,"length":30,"created_at":null,"updated_at":null},
+ {"id":2,"intitule":"15x21","tarif":0.70,"width":15,"length":21,"created_at":null,"updated_at":null},
+ {"id":3,"intitule":"13x18","tarif":0.50,"width":13,"length":18,"created_at":null,"updated_at":null},
+ {"id":4,"intitule":"10x15","tarif":0.15,"width":10,"length":15,"created_at":null,"updated_at":null},
+ {"id":5,"intitule":"9x13","tarif":0.12,"width":9,"length":13,"created_at":null,"updated_at":null}
+ ]

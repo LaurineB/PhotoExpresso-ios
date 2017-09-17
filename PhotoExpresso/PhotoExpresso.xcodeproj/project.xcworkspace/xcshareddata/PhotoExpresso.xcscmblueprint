@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A18512004799715EF6BA2DECF965F682A6BFCE14",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A18512004799715EF6BA2DECF965F682A6BFCE14" : 9223372036854775807,
+    "265762F2CDD67A53ED305952D7008F008C3FCD29" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D9FC528A-71E9-4449-89AA-1A0037961DFD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A18512004799715EF6BA2DECF965F682A6BFCE14" : "PhotoExpresso-ios\/",
+    "265762F2CDD67A53ED305952D7008F008C3FCD29" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PhotoExpresso",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PhotoExpresso\/PhotoExpresso.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LaurineB\/PhotoExpresso.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "265762F2CDD67A53ED305952D7008F008C3FCD29"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/gitlab.com\/PhotoExpresso-project\/PhotoExpresso-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A18512004799715EF6BA2DECF965F682A6BFCE14"
+    }
+  ]
+}

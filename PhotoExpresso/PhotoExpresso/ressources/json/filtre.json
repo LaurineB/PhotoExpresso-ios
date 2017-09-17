@@ -1,0 +1,6 @@
+[{"id":1,"intitule":"Los Angeles","tarif":0.25,"actif":1,"created_at":null,"updated_at":null},
+ {"id":2,"intitule":"Paris","tarif":0.20,"actif":1,"created_at":null,"updated_at":null},
+ {"id":3,"intitule":"London","tarif":0.35,"actif":1,"created_at":null,"updated_at":null},
+ {"id":4,"intitule":"Rio","tarif":0.30,"actif":1,"created_at":null,"updated_at":null},
+ {"id":5,"intitule":"Original","tarif":0.0,"actif":1,"created_at":null,"updated_at":null}
+ ]
